@@ -4,7 +4,7 @@ Este projeto tem a função de desenvolver um pequeno app mobile que armazena in
 
 ###
 
-Utilizarei essa atividade para compreender as práticas de utilização de APIs em projetos de software. Além disso, busco utilidade para tornar buscas por referenciais bibliográficas mais ágeis e personalizadas.
+Utilizarei essa atividade para compreender as práticas de utilização de APIs em projetos de software. Além disso, busco utilidade para tornar buscas por referências bibliográficas mais ágeis e personalizadas.
 
 
 
