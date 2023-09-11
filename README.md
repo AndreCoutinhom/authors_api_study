@@ -4,7 +4,7 @@
 
 
 
-Authors API 📝
+Authors API 
 
 </h1>
 
