@@ -8,7 +8,7 @@ Authors API
 
 </h1>
 
-Este projeto tem a função de desenvolver um pequeno app mobile que armazena informações de autores científicos através de uma API da plataforma Scholar Google.
+Este projeto tem a função de desenvolver um pequeno website que armazena informações de autores científicos através de uma API da plataforma Scholar Google.
 
 ###
 
