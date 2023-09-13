@@ -22,7 +22,7 @@ A API é fornecida através da plataforma SerpAPI.
 
 Nossa API de autor do Google Acadêmico permite que você extraia os resultados do autor da página de pesquisa de autor do Google Acadêmico. A API é acessada por meio do seguinte endpoint: /search?engine=google_scholar_author. Um usuário pode consultar o seguinte: https://serpapi.com/search?engine=google_scholar_author utilizando uma solicitação GET. Vá ao playground para uma demonstração ao vivo e interativa.
 
-## Exemplos da API
+## 📯 Exemplos da API
 
 `author_id`: LSsXyncAAAAJ
 
