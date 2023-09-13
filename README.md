@@ -16,7 +16,7 @@ Utilizarei essa atividade para compreender as práticas de utilização de APIs 
 
 ## 👨‍🎓 Google Scholar Author API 
 
-A API é fornecida através da plataforma SerpAPI.
+A API é fornecida através da plataforma [SerpAPI](https://serpapi.com/google-scholar-author-api).
 
 ### Descrição do site: 
 
